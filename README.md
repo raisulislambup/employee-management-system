@@ -43,16 +43,6 @@ npm install
 npm start
 ```
 
-## 🔑 Environment Variables
-
-Create a `.env` file in backend:
-
-```
-MONGO_URI=your_mongodb_url
-JWT_SECRET=your_secret_key
-```
-
-
 
 ## 👨‍💻 Author
 
