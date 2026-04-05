@@ -23,7 +23,7 @@ A full stack Employee Management System built using MongoDB, Express, React, and
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/raisulislambup/employee-management-system.git
 cd employee-management-system
 ```
 
@@ -52,13 +52,11 @@ MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 ```
 
-## 📸 Screenshots
 
-(Add your project screenshots here)
 
 ## 👨‍💻 Author
 
-Your Name
+Md Raisul Islam
 
 ## ⭐ Show your support
 
